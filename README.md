@@ -10,3 +10,5 @@ Bot系のAPI使ってみたいそれだけ
 Intents 質問の分類的なの
 Entitiy 質問に対する答え
 CSVでこれらは読み込める
+
+# MSのChatBotAPIをつかうのもありそう？
